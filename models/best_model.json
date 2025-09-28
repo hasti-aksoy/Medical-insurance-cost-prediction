@@ -1,0 +1,12 @@
+{
+  "name": "RandomForest",
+  "metrics": {
+    "rmse": 4228.686161884481,
+    "rmsle": 0.4733979344725484,
+    "mae": 2242.0980378881877,
+    "r2": 0.8469727564510057,
+    "fit_seconds": 0.7095,
+    "predict_seconds": 0.0766,
+    "total_seconds": 0.7861
+  }
+}
