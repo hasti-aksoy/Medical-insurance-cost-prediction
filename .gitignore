@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# OS cruft
+.DS_Store
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Artifacts
+models/
+reports/
+
